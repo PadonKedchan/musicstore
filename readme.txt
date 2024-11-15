@@ -1,0 +1,5 @@
+PGADMIN_DEFAULT_EMAIL=kedchan_p@silpakorn.edu
+PGADMIN_DEFAULT_PASSWORD=password
+
+POSTGRES_USER=bookstore_user 
+POSTGRES_PASSWORD=your_strong_password
